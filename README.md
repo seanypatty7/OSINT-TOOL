@@ -11,4 +11,4 @@ When using OSINT, it is a good idea to check multiple sources. Because of this, 
 
 When running this program, a gui will display and ask the user to choose between IP, URL, or Hash Value. After choosing, the user will input their artifact in question. My program will reach out to multiple OSINT APIs (VirusTotal, AlienVault OTX, IBM X-Force, abuseIPDB, geoIP for geolocation, and urlscan for a screenshot of landing page if the artifact is a URL). It returns JSON data from these APIs, formats it into a nice, readable report, and outputs it to the gui.
 
-I am open to any comments or suggestions on how I can make this better. Thank you for reading. Here is a short video to show how it works (sorry for the screen recorded quality)
+I am open to any comments or suggestions on how I can make this better. Thank you for reading.
